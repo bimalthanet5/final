@@ -1,1 +1,11 @@
-
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CUBEOTHON.data.unityweb",
+"asmCodeUrl": "CUBEOTHON.asm.code.unityweb",
+"asmMemoryUrl": "CUBEOTHON.asm.memory.unityweb",
+"asmFrameworkUrl": "CUBEOTHON.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
